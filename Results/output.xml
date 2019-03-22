@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.1 (Python 3.7.2 on win32)" generated="20190322 12:57:25.966" rpa="false">
+<suite id="s1" name="Dummy-Test" source="C:\workspace\robot-dummy\TestCases\dummy-test.robot">
+<test id="s1-t1" name="Dummy Test">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Dummy Robot Test</arg>
+</arguments>
+<status status="PASS" starttime="20190322 12:57:25.992" endtime="20190322 12:57:25.992"></status>
+</kw>
+<status status="PASS" starttime="20190322 12:57:25.991" endtime="20190322 12:57:25.992" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20190322 12:57:25.967" endtime="20190322 12:57:25.992"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="Dummy-Test">Dummy-Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
